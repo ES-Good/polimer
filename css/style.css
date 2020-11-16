@@ -1,0 +1,44 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: #E5E5E5;
+}
+.title-big{
+    /* font-size: 64px; */
+    font-size: 38px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.title-medium{
+    font-size: 36px;
+}
+
+.top-secttion{
+    padding: 80px 0 270px;
+}
+
+.top-secttion_bg{
+    background-image: url(../img/header/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+    font-weight: 400;
+}
+
+.btn_big{
+    font-size: 18px;
+    padding: 20px 45px;
+}
+
+.btn_withe{
+    background-color: #fff;
+}
+
+.logo-img{
+    width: 130px;
+}
